@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">CourseBookingApp</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="action_sign_up">Sign-Up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">Welcome!</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="role">Select Role</string>
+    <string name="manageCourses">Search, View, and Manage Courses</string>
+    <string name="manageInstructors">Manage Instructors</string>
+    <string name="manageStudents">Manage Students</string>
+    <string name="logout">Logout</string>
+    <string name="searchStudents">Search Students</string>
+    <string name="searchBtn">Search</string>
+    <string name="deleteStudent">Click on Row to Delete Student.</string>
+    <string name="backBtn">Back</string>
+    <string name="searchInstructors">Search Instructors</string>
+    <string name="deleteInstructor">Click Row to Delete Instructor</string>
+    <string name="faculty">Enter Faculty (i.e.HIS)</string>
+    <string name="courseName">Enter Course Name</string>
+    <string name="courseCode">Enter Code (i.e.101)</string>
+    <string name="createCourseBtn">Create Course</string>
+    <string name="searchCourse">Enter Course Code</string>
+    <string name="result">Result</string>
+    <string name="courseCodeFull">Course Code</string>
+    <string name="courseNameFull">Course Name</string>
+    <string name="saveChanges">Save Changes</string>
+    <string name="deleteCourse">Delete Course</string>
+    <string name="courseFacultyFull">Faculty</string>
+    <string name="enterFaculty">Enter Faculty</string>
+    <string name="clearText">Clear</string>
+    <string name="viewAll">View All</string>
+    <string name="courseStartDate">Course Starting Date</string>
+    <string name="courseEndDate">Course Ending Date</string>
+    <string name="teach">Enroll As Instructor</string>
+    <string name="hours">Hours</string>
+    <string name="courseDescription">Course Description</string>
+    <string name="numberOfStudents">Number of Students</string>
+    <string name="updateStatus">Update Status</string>
+    <string name="instructorName">Instructor Name</string>
+    <string name="createAccount">Create Account</string>
+    <string name="signUpInfo">Create an Instructor Account</string>
+    <string name="facultyCode">Faculty Code</string>
+    <string name="homeBtn">Home</string>
+    <string name="dayOfWeek">Day of the Week</string>
+    <string name="searchAndManageCourseAdminMain">Search and Manage Courses</string>
+    <string name="searchAndEditCourseInstructorMain">Search and Edit Courses</string>
+    <string name="searchCourses">Search and Enroll in Courses</string>
+    <string name="CourseCodeInstructorManage">"Course Code "</string>
+    <string name="startTime">Start Time</string>
+    <string name="durationOfLecture">Enter duration of Lecture (hrs)</string>
+    <string name="courseCapacity">Enter Course Capacity</string>
+    <string name="courseDescriptionInstructorManage">Course Description</string>
+    <string name="assignToSelf">Assign as Instructor</string>
+    <string name="saveBtnInstructorManage">Save Changes</string>
+    <string name="enrolBtn">Enrol in Course</string>
+    <string name="unenrolBtn">Unenroll from Course</string>
+    <string name="viewEnrolledStudents">View Enrolled Students</string>
+    <string name="viewEnrolledCourses">View Enrolled Courses</string>
+    <string-array name="roles">
+        <item>Administrator</item>
+        <item>Instructor</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="daysOfWeek">
+        <item></item>
+        <item>MONDAY</item>
+        <item>TUESDAY</item>
+        <item>WEDNESDAY</item>
+        <item>THURSDAY</item>
+        <item>FRIDAY</item>
+    </string-array>
+</resources>
